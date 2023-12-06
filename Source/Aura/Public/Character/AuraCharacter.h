@@ -24,5 +24,4 @@ private:
 
 	virtual void InitAbilityActorInfo() override;
 	
-
 };
